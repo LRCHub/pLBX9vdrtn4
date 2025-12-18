@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "絶頂讃歌",
+  "base_artist": "和ぬか",
+  "createdAt": "2025-12-18T03:07:14.733444Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "絶頂讃歌",
+      "artist": "和ぬか",
+      "has_synced": true,
+      "path": "select/01_絶頂讃歌_和ぬか.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "絶頂讃歌 - Orgasm Anthem",
+      "artist": "Wanuka",
+      "has_synced": true,
+      "path": "select/02_絶頂讃歌_-_Orgasm_Anthem_Wanuka.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "絶頂讃歌",
+      "artist": "和ぬか",
+      "has_synced": true,
+      "path": "select/03_絶頂讃歌_和ぬか.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "絶頂讃歌",
+      "artist": "Wanuka",
+      "has_synced": true,
+      "path": "select/04_絶頂讃歌_Wanuka.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "絶頂讃歌",
+      "artist": "和ぬか",
+      "has_synced": true,
+      "path": "select/05_絶頂讃歌_和ぬか.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "絶頂讃歌 (Yuu Cover)",
+      "artist": "Wanuka",
+      "has_synced": true,
+      "path": "select/06_絶頂讃歌_(Yuu_Cover)_Wanuka.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "絶頂讃歌",
+      "artist": "和ぬか",
+      "has_synced": false,
+      "path": "select/pl_01_絶頂讃歌_和ぬか.txt"
+    }
+  ]
+}
